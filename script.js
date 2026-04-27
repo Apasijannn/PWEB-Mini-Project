@@ -287,7 +287,7 @@ function addCustomToOrder() {
     return;
   }
 
-  var nama = 'Paket Custom: ' + sel.nasi.name + ' + ' + sel.lauk.name + ' + ' + sel.side.name + ' + ' + sel.sambal.name;
+  var nama = 'Custom : ' + sel.nasi.name + ' + ' + sel.lauk.name + ' + ' + sel.side.name + ' + ' + sel.sambal.name;
   var harga = sel.nasi.price + sel.lauk.price + sel.side.price + sel.sambal.price;
   var idBaru = 'custom_' + Date.now();
 
