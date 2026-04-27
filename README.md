@@ -22,11 +22,11 @@ Formulir pemesanan terintegrasi dengan sistem validasi data wajib pengguna. Sist
 
 Pengembangan sistem Kala Catering dilakukan secara terstruktur melalui tahapan berikut:
 
-1. **Ideasi & Perencanaan:** Pencarian ide dan menentukan fitur utama sistem, 276].
-2. **Desain & Purwarupa:** Riset referensi desain serupa, perancangan tema dan struktur web, dilanjutkan dengan pembuatan wireframe, 278, 285].
-3. **Pengembangan Tampilan (Front-end):** Implementasi antarmuka pengguna menggunakan HTML, CSS, dan JavaScript].
-4. **Integrasi Logika (Back-end/Core Logic):** Implementasi logika fitur custom (racik menu) dan halaman order].
-5. **Finalisasi:** Testing dan debugging sistem secara menyeluruh, diakhiri dengan proses deploy, 283].
+1. **Ideasi & Perencanaan:** Pencarian ide dan menentukan fitur utama sistem.
+2. **Desain & Purwarupa:** Riset referensi desain serupa, perancangan tema dan struktur web, dilanjutkan dengan pembuatan wireframe.
+3. **Pengembangan Tampilan:** Implementasi antarmuka pengguna menggunakan HTML, CSS, dan JavaScript.
+4. **Integrasi Logika:** Implementasi logika fitur custom (racik menu) dan halaman order.
+5. **Finalisasi:** Testing dan debugging sistem secara menyeluruh, diakhiri dengan proses deploy.
 
 ---
 
@@ -39,11 +39,10 @@ Antarmuka web ini menggunakan identitas visual yang hangat dan organik untuk mem
 
 ---
 
-## Teknologi yang Digunakan (Tech Stack)
+## Teknologi yang Digunakan
 
-* **Tampilan (Frontend):** HTML5, CSS3 (memanfaatkan tata letak Flexbox & Grid kustom).
-* **Logika Sistem:** JavaScript (Vanilla JS) untuk sistem validasi, manipulasi keranjang belanja, dan kalkulasi harga real-time.
-* **Tipografi:** Poppins (Google Fonts) untuk estetika yang modern, bersih, dan mudah dibaca.
+* **Tampilan:** HTML5, CSS3 (memanfaatkan tata letak Flexbox & Grid kustom).
+* **Logika Sistem:** JavaScript untuk sistem validasi, manipulasi keranjang belanja, dan kalkulasi harga real-time.
 
 ---
 
